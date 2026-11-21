@@ -144,7 +144,7 @@ These exercises demonstrated that encryption is only as resilient as the entropy
 
 ### 2. Unlocked Target PDF (W3-PM1) — Flag Captured
 *Opening `My Locked PDF1.pdf` using the recovered password `good-luck` to reveal `nw{cybersecurity_flag_captured_2608}`.*
-![Unlocked PDF Flag 1](flag1.jpg)
+![Unlocked PDF Flag 1](flag1.png)
 
 ### 3. Networkwalks Hash Calculator — Local `$pdf$` Hash Extraction
 *Extracting the Revision R4 / Version V4 / 128-bit `$pdf$` hash from `My Locked PDF1 (for NW Tools Lab WK3-PM2).pdf`.*
@@ -152,15 +152,15 @@ These exercises demonstrated that encryption is only as resilient as the entropy
 
 ### 4. Networkwalks Password Cracker — Dictionary Attack Configuration
 *Loading the extracted `$pdf$` hash into the browser-based dictionary attack tool with the built-in 100-password wordlist.*
-![Networkwalks Password Cracker Setup](net_passcalc.jpg)
+![Networkwalks Password Cracker Setup](net_passcalc.png)
 
 ### 5. Networkwalks Password Cracker — Password Match Found (`password1`)
 *Dictionary attack completing at attempt 91/100 and identifying the matching password `password1`.*
-![Networkwalks Password Cracker Match](passcalc.jpg)
+![Networkwalks Password Cracker Match](passcalc.png)
 
 ### 6. Unlocked Target PDF (W3-PM2) — Flag Captured
 *Opening `My Locked PDF1 (for NW Tools Lab WK3-PM2).pdf` with `password1` to reveal `nw{networkwalks_flag1_jtr_270521_1}`.*
-![Unlocked PDF Flag 2](flag2.jpg)
+![Unlocked PDF Flag 2](flag2.png)
 
 ---
 
